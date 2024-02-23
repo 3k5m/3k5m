@@ -3,4 +3,4 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-attempting to create some stuff
+trying to learn how git works
